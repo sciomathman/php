@@ -6,5 +6,5 @@
 >For all the folks getting excited about my quotes. Here is another - Yes, I am a terrible coder, but I am probably still better than you :)
 - Rasmus Lerdorf (2002) Creator of PHP
 
-##About
+## About
 Understanding PHP. The art of serving data
